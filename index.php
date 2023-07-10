@@ -16,6 +16,7 @@ include 'backend/database.php';
 	<link rel="stylesheet" href="css/style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="shortcut icon" href="https://res.cloudinary.com/djuf0cyrk/image/upload/v1688995247/favicons/android-chrome-512x512_n4ijfc.png" type="image/x-icon">
 	<script src="ajax/ajax.js"></script>
 </head>
 
